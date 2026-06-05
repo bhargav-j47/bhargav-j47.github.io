@@ -1,0 +1,9 @@
+title: GSoC'26 Blogs
+description: >- 
+  A blog series of my Gsoc journey.
+baseurl: "" 
+url: "http://bhargav-j47.github.io/" 
+theme: minima
+
+# Build settings
+markdown: kramdown
